@@ -6,3 +6,5 @@ However, please be aware that if you die within a stronghold, the items in your 
 ## How do I increase my backpack size?
 
 To expand your backpack's capacity, click on the `+` button next to the slot counter.
+
+Some mercenaries will also expand your backpack by carrying items for you.
